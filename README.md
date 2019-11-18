@@ -8,7 +8,7 @@
 * 02. 当构造方法参数过多时使用builder模式
 * 03. 使用私有构造方法或枚类实现Singleton属性
 * 04. 使用私有构造方法执行非实例化
-* \[05. 依赖注入优于硬连接资源\(hardwiring resources\)\]\(notes/05.%20依赖注入优于硬连接资源\(hardwiring%20resources\).md\)
+* \[05. 依赖注入优于硬连接资源
 * 06. 避免创建不必要的对象
 * 07. 消除过期的对象引用
 * 08. 避免使用Finalizer和Cleaner机制
