@@ -29,4 +29,13 @@
   * [23. 类层次结构优于标签类](di-san-zhang-.-lei-he-jie-kou/23.-lei-ceng-ci-jie-gou-you-yu-biao-qian-lei.md)
   * [24. 支持使用静态成员类而不是非静态类](di-san-zhang-.-lei-he-jie-kou/24.-zhi-chi-shi-yong-jing-tai-cheng-yuan-lei-er-bu-shi-fei-jing-tai-lei.md)
   * [25. 将源文件限制为单个顶级类](di-san-zhang-.-lei-he-jie-kou/25.-jiang-yuan-wen-jian-xian-zhi-wei-dan-ge-ding-ji-lei.md)
+* [第四章. 泛型](di-si-zhang-.-fan-xing/README.md)
+  * [26. 不要使用原始类型](di-si-zhang-.-fan-xing/26.-bu-yao-shi-yong-yuan-shi-lei-xing.md)
+  * [27. 消除非检查警告](di-si-zhang-.-fan-xing/27.-xiao-chu-fei-jian-cha-jing-gao.md)
+  * [28. 列表优于数组](di-si-zhang-.-fan-xing/28.-lie-biao-you-yu-shu-zu.md)
+  * [29. 优先考虑泛型](di-si-zhang-.-fan-xing/29.-you-xian-kao-lv-fan-xing.md)
+  * [30. 优先使用泛型方法](di-si-zhang-.-fan-xing/30.-you-xian-shi-yong-fan-xing-fang-fa.md)
+  * [31. 使用限定通配符来增加API的灵活性](di-si-zhang-.-fan-xing/31.-shi-yong-xian-ding-tong-pei-fu-lai-zeng-jia-api-de-ling-huo-xing.md)
+  * [32. 合理地结合泛型和可变参数](di-si-zhang-.-fan-xing/32.-he-li-di-jie-he-fan-xing-he-ke-bian-can-shu.md)
+  * [33. 优先考虑类型安全的异构容器](di-si-zhang-.-fan-xing/33.-you-xian-kao-lv-lei-xing-an-quan-de-yi-gou-rong-qi.md)
 
