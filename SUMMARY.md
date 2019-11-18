@@ -1,0 +1,20 @@
+# Table of contents
+
+* [目录](README.md)
+* [第一章. 创建和销毁对象](chapter-1.-creating-and-destroying-objects/README.md)
+  * [01. 考虑使用静态工厂方法替代构造方法](chapter-1.-creating-and-destroying-objects/01.-kao-lv-shi-yong-jing-tai-gong-chang-fang-fa-ti-dai-gou-zao-fang-fa.md)
+  * [02. 当构造方法参数过多时使用builder模式](chapter-1.-creating-and-destroying-objects/untitled.md)
+  * [03. 使用私有构造方法或枚类实现Singleton属性](chapter-1.-creating-and-destroying-objects/untitled-1.md)
+  * [04. 使用私有构造方法执行非实例化](chapter-1.-creating-and-destroying-objects/untitled-2.md)
+  * [05. 依赖注入优于硬连接资源\(hardwiring resources\)](chapter-1.-creating-and-destroying-objects/untitled-3.md)
+  * [06. 避免创建不必要的对象](chapter-1.-creating-and-destroying-objects/untitled-4.md)
+  * [07. 消除过期的对象引用](chapter-1.-creating-and-destroying-objects/07.-xiao-chu-guo-qi-de-dui-xiang-yin-yong.md)
+  * [08. 避免使用Finalizer和Cleaner机制](chapter-1.-creating-and-destroying-objects/08.-bi-mian-shi-yong-finalizer-he-cleaner-ji-zhi.md)
+* [第二章.对象的公共方法](di-er-zhang-.-dui-xiang-de-gong-gong-fang-fa/README.md)
+  * [09. 使用try-with-resources语句替代try-finally语句](di-er-zhang-.-dui-xiang-de-gong-gong-fang-fa/09.-shi-yong-trywithresources-yu-ju-ti-dai-tryfinally-yu-ju.md)
+  * [10. 重写equals方法时遵守通用约定](di-er-zhang-.-dui-xiang-de-gong-gong-fang-fa/10.-zhong-xie-equals-fang-fa-shi-zun-shou-tong-yong-yue-ding.md)
+  * [11. 重写equals方法时同时也要重写hashcode方法](di-er-zhang-.-dui-xiang-de-gong-gong-fang-fa/11.-zhong-xie-equals-fang-fa-shi-tong-shi-ye-yao-zhong-xie-hashcode-fang-fa.md)
+  * [12. 始终重写 toString 方法](di-er-zhang-.-dui-xiang-de-gong-gong-fang-fa/12.-shi-zhong-zhong-xie-tostring-fang-fa.md)
+  * [13. 谨慎地重写 clone 方法](di-er-zhang-.-dui-xiang-de-gong-gong-fang-fa/13.-jin-shen-di-zhong-xie-clone-fang-fa.md)
+  * [14. 考虑实现Comparable接口](di-er-zhang-.-dui-xiang-de-gong-gong-fang-fa/14.-kao-lv-shi-xian-comparable-jie-kou.md)
+
