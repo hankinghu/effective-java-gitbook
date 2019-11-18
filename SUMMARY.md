@@ -48,4 +48,12 @@
   * [40. 始终使用Override注解](di-wu-zhang-.-mei-ju-he-zhu-jie/40.-shi-zhong-shi-yong-override-zhu-jie.md)
   * [41. 使用标记接口定义类型](di-wu-zhang-.-mei-ju-he-zhu-jie/41.-shi-yong-biao-ji-jie-kou-ding-yi-lei-xing.md)
   * [42. lambda表达式优于匿名类](di-wu-zhang-.-mei-ju-he-zhu-jie/42.-lambda-biao-da-shi-you-yu-ni-ming-lei.md)
+* [第六章. Lambdas 表达式和流](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/README.md)
+  * [42. lambda表达式优于匿名类](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/42.-lambda-biao-da-shi-you-yu-ni-ming-lei-1.md)
+  * [43. 方法引用优于lambda表达式](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/43.-fang-fa-yin-yong-you-yu-lambda-biao-da-shi.md)
+  * [44. 优先使用标准的函数式接口](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/44.-you-xian-shi-yong-biao-zhun-de-han-shu-shi-jie-kou.md)
+  * [45. 明智审慎地使用Stream](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/45.-ming-zhi-shen-shen-di-shi-yong-stream.md)
+  * [46. 优先考虑流中无副作用的函数](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/46.-you-xian-kao-lv-liu-zhong-wu-fu-zuo-yong-de-han-shu.md)
+  * [47. 优先使用Collection而不是Stream来作为方法的返回类型](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/47.-you-xian-shi-yong-collection-er-bu-shi-stream-lai-zuo-wei-fang-fa-de-fan-hui-lei-xing.md)
+  * [48. 谨慎使用流并行](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/48.-jin-shen-shi-yong-liu-bing-hang.md)
 
