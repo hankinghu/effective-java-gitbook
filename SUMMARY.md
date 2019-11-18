@@ -56,4 +56,13 @@
   * [46. 优先考虑流中无副作用的函数](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/46.-you-xian-kao-lv-liu-zhong-wu-fu-zuo-yong-de-han-shu.md)
   * [47. 优先使用Collection而不是Stream来作为方法的返回类型](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/47.-you-xian-shi-yong-collection-er-bu-shi-stream-lai-zuo-wei-fang-fa-de-fan-hui-lei-xing.md)
   * [48. 谨慎使用流并行](di-liu-zhang-.-lambdas-biao-da-shi-he-liu/48.-jin-shen-shi-yong-liu-bing-hang.md)
+* [第七章. 方法](di-qi-zhang-.-fang-fa/README.md)
+  * [49. 检查参数有效性](di-qi-zhang-.-fang-fa/49.-jian-cha-can-shu-you-xiao-xing.md)
+  * [50. 必要时进行防御性拷贝](di-qi-zhang-.-fang-fa/50.-bi-yao-shi-jin-hang-fang-yu-xing-kao-bei.md)
+  * [51. 仔细设计方法签名](di-qi-zhang-.-fang-fa/51.-zai-xi-she-ji-fang-fa-qian-ming.md)
+  * [52. 明智审慎地使用重载](di-qi-zhang-.-fang-fa/52.-ming-zhi-shen-shen-di-shi-yong-zhong-zai.md)
+  * [53. 明智审慎地使用可变参数](di-qi-zhang-.-fang-fa/53.-ming-zhi-shen-shen-di-shi-yong-ke-bian-can-shu.md)
+  * [54. 返回空的数组或集合，不要返回 null](di-qi-zhang-.-fang-fa/54.-fan-hui-kong-de-shu-zu-huo-ji-he-bu-yao-fan-hui-null.md)
+  * [55. 明智审慎地返回 Optional](di-qi-zhang-.-fang-fa/55.-ming-zhi-shen-shen-di-fan-hui-optional.md)
+  * [56. 为所有已公开的 API 元素编写文档注释](di-qi-zhang-.-fang-fa/56.-wei-suo-you-yi-gong-kai-de-api-yuan-su-bian-xie-wen-dang-zhu-shi.md)
 
